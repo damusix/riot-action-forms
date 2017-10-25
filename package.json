@@ -26,5 +26,16 @@
     "rollup-plugin-node-resolve": "^2.0.0",
     "rollup-plugin-riot": "^1.1.0"
   },
-  "license": "MIT"
+  "keywords": [
+    "riot",
+    "forms",
+    "validations",
+    "mixins"
+  ],
+  "author": "Danilo Alonso",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damusix/riot-action-forms.git"
+  }
 }
