@@ -1,6 +1,6 @@
 {
   "name": "riot-action-forms",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Makes forms observable and binds field validations.",
   "main": "dist/bundle.js",
   "scripts": {
